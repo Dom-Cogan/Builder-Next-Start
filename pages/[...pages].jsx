@@ -5,7 +5,7 @@ import DefaultErrorPage from 'next/error';
 import Head from 'next/head';
 
 // Replace with your Public API Key
-builder.init('27b98a1c1d3243fea542d3c8bdb332d9');
+builder.init('Your_API_KEY');
 
 export async function getStaticProps({ params }) {
   // Fetch the builder content
