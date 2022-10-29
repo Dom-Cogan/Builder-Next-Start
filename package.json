@@ -17,5 +17,17 @@
   "devDependencies": {
     "eslint": "8.26.0",
     "eslint-config-next": "12.3.1"
-  }
+  },
+  "description": "This repository is so you can just clone this repo and add your Public Api key for builder.io",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dom-Cogan/Builder-Next-Start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dom-Cogan/Builder-Next-Start/issues"
+  },
+  "homepage": "https://github.com/Dom-Cogan/Builder-Next-Start#readme"
 }
