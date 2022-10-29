@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
+    //Not sure if this page is needed or not
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
